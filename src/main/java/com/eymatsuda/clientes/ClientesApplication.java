@@ -10,21 +10,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@RestController(value="/clientes")
 public class ClientesApplication {
-
-    @Autowired
-    ClienteRepository repository;
-
-    @Bean
-    public CommandLineRunner run(){
-        return  args -> {
-            Cliente cliente = Cliente.builder().cpf("12345678900").nome("Fulano de Tal").build();
-            repository.save(cliente);
-        };
-    }
-
-
 
     public static void main(String[] args) {
         SpringApplication.run(ClientesApplication.class, args);
