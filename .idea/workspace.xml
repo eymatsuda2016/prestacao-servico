@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26a7a7d1-758c-4b81-8d60-70263aef5cac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/config/InternacionalizacaoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_pt_BR.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/model/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/model/entity/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eymatsuda/clientes/model/entity/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eymatsuda/clientes/model/entity/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eymatsuda/clientes/rest/ClienteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eymatsuda/clientes/rest/ClienteController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,22 +90,22 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="413" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741450386086" />
-    <state width="1323" height="387" key="GridCell.Tab.0.bottom" timestamp="1741539610486">
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom" timestamp="1741540448239">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741539610486" />
-    <state width="1323" height="387" key="GridCell.Tab.0.center" timestamp="1741539610486">
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741540448239" />
+    <state width="1323" height="130" key="GridCell.Tab.0.center" timestamp="1741540448239">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.0.center/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741539610486" />
-    <state width="1323" height="387" key="GridCell.Tab.0.left" timestamp="1741539610485">
+    <state width="1323" height="130" key="GridCell.Tab.0.center/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741540448239" />
+    <state width="1323" height="130" key="GridCell.Tab.0.left" timestamp="1741540448239">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.0.left/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741539610485" />
-    <state width="1323" height="387" key="GridCell.Tab.0.right" timestamp="1741539610486">
+    <state width="1323" height="130" key="GridCell.Tab.0.left/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741540448239" />
+    <state width="1323" height="130" key="GridCell.Tab.0.right" timestamp="1741540448239">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="387" key="GridCell.Tab.0.right/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741539610486" />
+    <state width="1323" height="130" key="GridCell.Tab.0.right/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741540448239" />
     <state x="213" y="15" key="Maven.ArtifactSearchDialog" timestamp="1741450979864">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
@@ -115,10 +114,10 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="184" y="2" key="SettingsEditor/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741452542674" />
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1741529045712">
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1741736006144">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741529045712" />
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741736006144" />
     <state x="346" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1741452056921">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
