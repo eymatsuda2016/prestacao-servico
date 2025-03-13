@@ -36,7 +36,7 @@ public class ClienteController {
     public Cliente localizarPorId(@PathVariable Integer id) {
         return repository
                 .findById(id)
-                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Cliente Não Localizado em Nosso Banco de Dados"));
     }
 
     @DeleteMapping("{id}")
@@ -46,7 +46,7 @@ public class ClienteController {
             repository.delete(cliente);
             return Void.TYPE;
         })
-                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Cliente Não Localizado em Nosso Banco de Dados"));
     }
 
     @PutMapping("{id}")
@@ -57,6 +57,6 @@ public class ClienteController {
             cliente.setCpf((clienteAtualizado.getCpf()));
             return repository.save(clienteAtualizado);
         })
-                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Cliente Não Localizado em Nosso Banco de Dados"));
     }
 }

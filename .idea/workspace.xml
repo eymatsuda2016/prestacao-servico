@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26a7a7d1-758c-4b81-8d60-70263aef5cac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/ApplicationControllerAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/exception/ApiErrors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/ApplicationControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/ApplicationControllerAdvice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eymatsuda/clientes/rest/ClienteController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,22 +89,22 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="413" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741450386086" />
-    <state width="1323" height="278" key="GridCell.Tab.0.bottom" timestamp="1741824070829">
+    <state width="1323" height="146" key="GridCell.Tab.0.bottom" timestamp="1741825431177">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="278" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741824070829" />
-    <state width="1323" height="278" key="GridCell.Tab.0.center" timestamp="1741824070829">
+    <state width="1323" height="146" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741825431177" />
+    <state width="1323" height="146" key="GridCell.Tab.0.center" timestamp="1741825431177">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="278" key="GridCell.Tab.0.center/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741824070829" />
-    <state width="1323" height="278" key="GridCell.Tab.0.left" timestamp="1741824070829">
+    <state width="1323" height="146" key="GridCell.Tab.0.center/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741825431177" />
+    <state width="1323" height="146" key="GridCell.Tab.0.left" timestamp="1741825431176">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="278" key="GridCell.Tab.0.left/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741824070829" />
-    <state width="1323" height="278" key="GridCell.Tab.0.right" timestamp="1741824070829">
+    <state width="1323" height="146" key="GridCell.Tab.0.left/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741825431176" />
+    <state width="1323" height="146" key="GridCell.Tab.0.right" timestamp="1741825431177">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1323" height="278" key="GridCell.Tab.0.right/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741824070829" />
+    <state width="1323" height="146" key="GridCell.Tab.0.right/0.0.1366.720/1366.0.1600.852@0.0.1366.720" timestamp="1741825431177" />
     <state x="213" y="15" key="Maven.ArtifactSearchDialog" timestamp="1741450979864">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
